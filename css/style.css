@@ -30,3 +30,7 @@ p {
 .logo {
     width: 30px;
 }
+
+hr {
+    background: black;
+}
